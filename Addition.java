@@ -5,7 +5,7 @@ public class Addition {
 	static int e = 10;
 	public void sub() {
 		
-		int a = 10;
+		int a = 10;     //Addition
 		int b = 5;
 	int c = a-b+e;
 		final int w = 10;
@@ -17,7 +17,7 @@ public class Addition {
 		System.out.print("The Sub = " +c+w);
 		
 	}
-	final int v= 10;
+	final int v= 10; //Final Variable
 	
 	
 	public static void main(String[] args) {
