@@ -6,7 +6,7 @@ public class Addition {
 		
 		int a = 10;     //Addition
 		int b = 5;
-	        int c = a-b+e;
+	      int c = a-b+e;
 		final int w = 10;
 		System.out.println("Subtraction Method:");
 		System.out.println("A = 10");
