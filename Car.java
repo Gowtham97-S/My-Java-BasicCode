@@ -23,8 +23,6 @@ public class Car {
 		System.out.println("5.Jaguar.");
 	}
 	
-	
-	
 	public static void main(String[] args) {
 		System.out.println("Cars list");
 		Car a= new Car();
