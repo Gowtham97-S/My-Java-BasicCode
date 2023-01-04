@@ -1,24 +1,21 @@
 
 public class Addition {
-
 	
 	static int e = 10;
 	public void sub() {
 		
 		int a = 10;
 		int b = 5;
-	int c = a-b+e;
+	        int c = a-b+e;
 		final int w = 10;
 		System.out.println("Subtraction Method:");
 		System.out.println("A = 10");
 		System.out.println("B = 5");
-		
 	
 		System.out.print("The Sub = " +c+w);
 		
 	}
 	final int v= 10;
-	
 	
 	public static void main(String[] args) {
 		
@@ -34,8 +31,5 @@ public class Addition {
 		Addition sub= new Addition();
 		sub.sub();
 	}
-	
-	
-	
 	
 }
